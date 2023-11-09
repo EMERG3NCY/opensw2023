@@ -2,4 +2,5 @@
 
 void goo(){
     printf("Hi, I'm goo!\n");
+    printf("Hi, anoter goo!\n");
 }
